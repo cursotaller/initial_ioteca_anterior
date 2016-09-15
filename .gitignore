@@ -6,8 +6,7 @@ node_modules
 bower_components
 *bower_components
 ~*
-dj*.txt
-log*.txt
+
 xtest_
 
 
